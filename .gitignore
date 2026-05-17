@@ -1,0 +1,33 @@
+# Java compiled files
+*.class
+
+# Logs
+*.log
+
+# Tomcat generated folders
+work/
+temp/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build folders
+build/
+dist/
+target/
+
+# Tomcat cache
+apache-tomcat*/
+tomcat*/
+logs/
+
+# WAR files
+*.war
+
+# ZIP files
+*.zip
